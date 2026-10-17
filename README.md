@@ -4,6 +4,9 @@ Downloads and update feed for [DevSweep](https://github.com/trongify0114/devswee
 a macOS app that measures and safely cleans developer caches. This repository holds
 releases only. The source code is not here.
 
+**No release yet.** The first release comes once DevSweep has its own Developer ID
+certificate. Every build will then be notarized by Apple and open without Gatekeeper warnings.
+
 ## Install
 
 Download `DevSweep-<version>.dmg` from the [latest release](https://github.com/trongify0114/devsweep-releases/releases/latest),
