@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>DevSweep updates</description>
     <language>en</language>
     <item>
+      <title>DevSweep 0.3.0</title>
+      <pubDate>Sun, 18 Oct 2026 07:05:27 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul><li>First release signed with a Developer ID and notarized by Apple: DevSweep opens without Gatekeeper warnings.</li><li>Updating from 0.1.0 or 0.2.0: grant Full Disk Access once more in System Settings › Privacy &amp; Security › Full Disk Access. Later updates keep it.</li><li>Safe to Clean now finds old Rust incremental build sessions in Cargo target folders.</li><li>DevSweep skips Cargo profiles that are in the middle of a build, so files being written are never suggested.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/trongify0114/devsweep-releases/releases/download/v0.3.0/DevSweep-0.3.0.zip" sparkle:edSignature="98DDg67EjvqKwmcBuTJt2rgs3cnnMKAGsBAItRn9kyBfhsxraBkW19vYUcGoPWupOlMnBQXCb2DaPITqr3NkDA==" length="7407919" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>DevSweep 0.2.0</title>
       <pubDate>Sun, 18 Oct 2026 02:37:47 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
@@ -40,6 +51,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: SeB4tBGcS1A7l8eJqNYxfo9ADXLrzXGKtIGQjqZSMlDO/uG9sbBkaXyJtugGet4Re0+8pi3G3ExEHHpjQBtFCg==
-length: 4309
+edSignature: STiS+/sw7c+eA0JpOWADlqwECJEO6Q3EikVoXfQA1KddTi8V8k3N8zmq40blvGe+3by4kvUHwsPw5q/v+FwRCQ==
+length: 5449
 -->

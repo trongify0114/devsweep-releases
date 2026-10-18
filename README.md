@@ -9,19 +9,15 @@ releases only. The source code is not here.
 Download `DevSweep-<version>.dmg` from the newest release on the [releases page](https://github.com/trongify0114/devsweep-releases/releases),
 open it and drag DevSweep to Applications. DevSweep needs macOS 26 or later.
 
-### Releases marked "ad-hoc signed" (prereleases)
+Releases from 0.3.0 on are signed with a Developer ID and notarized by Apple, so macOS
+opens them without warnings.
 
-DevSweep doesn't have a Developer ID certificate. Its releases are ad-hoc signed and not
-notarized by Apple, so GitHub lists them as prereleases. They are still the current
-version, and DevSweep updates to them by itself. Two steps are needed:
+### Upgrading from 0.1.0 or 0.2.0
 
-- **First install:** macOS blocks the app the first time you open it. Open System Settings ›
-  Privacy & Security, scroll to the message about DevSweep and click **Open Anyway**.
-- **After each update:** DevSweep shows Full Disk Access as not granted. Grant it again in
-  System Settings › Privacy & Security › Full Disk Access. macOS ties the grant to the app's
-  signature, and an ad-hoc signature changes with every build.
-
-If DevSweep ever gets a Developer ID, its releases will be notarized and neither step will be needed.
+Those two releases were ad-hoc signed prereleases. After DevSweep updates from one of them,
+it shows Full Disk Access as not granted, because macOS ties the grant to the app's signature.
+Grant it once more in System Settings › Privacy & Security › Full Disk Access. Later updates
+keep the same signature, so the grant stays.
 
 ## Updates
 
