@@ -7,6 +7,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>DevSweep updates</description>
     <language>en</language>
     <item>
+      <title>DevSweep 0.2.0</title>
+      <pubDate>Sun, 18 Oct 2026 02:37:47 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>This build is ad-hoc signed, not notarized: DevSweep has no Developer ID certificate yet.</p>
+<ul><li>First install: macOS blocks the app. Open System Settings › Privacy &amp; Security and click Open Anyway.</li><li>After each update: grant Full Disk Access again in System Settings › Privacy &amp; Security › Full Disk Access.</li></ul>
+<h3>Changes</h3>
+<ul><li>Follow the macOS accent and label colors instead of a fixed violet</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/trongify0114/devsweep-releases/releases/download/v0.2.0/DevSweep-0.2.0.zip" sparkle:edSignature="ziYRrm+B8JV9tl1gYTmUYQbJd9dKxTKx5scK4PhDm8yU7uwpDjdfGbBFPzLdS5aJTC1AYq+MwYjR3uaA5znmAA==" length="7321317" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>DevSweep 0.1.0</title>
       <pubDate>Sat, 17 Oct 2026 10:24:03 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
@@ -26,6 +40,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1hFmnhRcAxJt4bKlwFnE6HcOMc5WcPwFpRhOUiJslSge4zPQtiaZwu0CdZEVo1fezJG+VUZh31gHNPd0uzquBg==
-length: 3219
+edSignature: SeB4tBGcS1A7l8eJqNYxfo9ADXLrzXGKtIGQjqZSMlDO/uG9sbBkaXyJtugGet4Re0+8pi3G3ExEHHpjQBtFCg==
+length: 4309
 -->
