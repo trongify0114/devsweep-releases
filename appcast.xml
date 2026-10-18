@@ -7,6 +7,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>DevSweep updates</description>
     <language>en</language>
     <item>
+      <title>DevSweep 0.3.1</title>
+      <pubDate>Sun, 18 Oct 2026 08:29:04 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul><li>A more compact menu bar popover that shows only what matters: free space with a thin bar, one row for Safe to Clean and one for high-severity findings, and the scan phase and percent while scanning.</li><li>Scan Now and Open DevSweep stay one click away; Check for Updates, Settings and Quit move into the &quot;…&quot; menu.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/trongify0114/devsweep-releases/releases/download/v0.3.1/DevSweep-0.3.1.zip" sparkle:edSignature="zg35gboPQWebu8sWkAEUF+mfMbhWV8SVsXBMNwDQwgPZnGRri+GOjkqZST1BLa93xqnogiSOIMs91qIGs2LkAw==" length="7442419" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>DevSweep 0.3.0</title>
       <pubDate>Sun, 18 Oct 2026 07:05:27 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
@@ -51,6 +62,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: STiS+/sw7c+eA0JpOWADlqwECJEO6Q3EikVoXfQA1KddTi8V8k3N8zmq40blvGe+3by4kvUHwsPw5q/v+FwRCQ==
-length: 5449
+edSignature: ll9VVgWpB86Da7C9xRcq5SS0Oh7CnVGJ7ieXEB/yaxeGvbz/sU8/rP9eN63m/kEvcx0Y1/mxgEn1U3xGSougDQ==
+length: 6436
 -->
